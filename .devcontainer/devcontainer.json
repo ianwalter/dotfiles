@@ -1,0 +1,7 @@
+{
+  "name": "dotfiles",
+  "image": "ianwalter/devcontainer",
+  "extensions": [
+    "wayou.vscode-todo-highlight"
+  ]
+}
